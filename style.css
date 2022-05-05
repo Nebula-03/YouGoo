@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhai+2&family=Caveat:wght@600&family=Kanit&family=Montserrat:wght@800&family=Orelega+One&family=Ubuntu:wght@300&display=swap');
+
+
+html{
+    scroll-behavior:smooth;
+}
+#tittle{
+    height:90vh;
+
+}
+
+h1{
+    font-family: 'Kanit', sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+
+}
+#image{
+    width:300px;
+    height:300px;
+}
+/* @media (max-width:600px){
+    #image{
+        width:200px;
+        height:190px;
+        margin:10px;
+    }
+    h1{
+        font-size: 2.5rem;;
+    }
+}
+@media (max-width:400px){
+#image{
+    height:150px;
+    width:150px;
+}
+h1{
+    font-size: 1.5rem;
+}
+} */
+h3{
+    font-weight: 100px;
+}
+
+.navbar-brand{
+    font-family: 'Caveat', cursive;
+    font-size: 1.5rem;
+    
+}
+.container-fluid{
+    padding:3% 15%;
+}
+
+#feature{
+    padding:7% 15%;
+    background-image: linear-gradient(rgb(84, 221, 245),rgb(9, 124, 145));
+}
+.feature-box{
+    text-align: center;
+    color:white;
+}
+.feature-box p{
+    color:rgb(4, 70, 70);
+    font-size: 1.2rem;;
+}
+/* #slides{
+    width:100%;
+    height:400px;
+    margin:50px;
+    justify-content: center;
+    background-image: url(image/img1.jpg);
+    background-repeat: no-repeat;
+
+} */
+#facility{
+    padding:3% 15%;
+    text-align: center;
+    /* background-image:linear-gradient(rgb(9, 124, 145),rgb(15, 15, 15)); */
+}
+#facility img{
+    
+    height:460px;
+}
+#pricing{
+    text-align: center;
+    padding:7% 15%;
+}
+#pricing h2,h3{
+    font-family: 'Orelega One', cursive;
+
+}
+#contact-logo{
+    font-family: 'Caveat', cursive;
+        font-size: 1.5rem;
+    }
+footer h5{
+    font-family: 'Caveat', cursive;
+}
+
+
+    
+
+
